@@ -1,0 +1,674 @@
+dia
+manhã
+bom
+meio-dia
+tarde (depois do Meio-dia)
+noite ( Fim da Noite )
+noite (noite toda)
+boa noite (Cumprimentos)
+Boa Noite (Para despedidas)
+Meia-noite
+Segunda-feira
+Terça-feira
+Quarta-feira
+Quinta-feira
+Sexta-feira
+Sábado
+Domingo
+pessoa (Singular)
+pessoas (Plural)
+corpo
+homem (Singular)
+homens (Plural)
+Mulher (Singular)
+mulheres (Plural)
+macho
+fêmea
+Virilha
+canela
+Genitais
+quadril
+Abdômen
+peito (Local onde fica o Coração)
+seios
+Pescoço
+Mamilo
+Cabeça
+Cintura
+Umbigo
+Antebraço
+coxa (Parte do Corpo)
+joelho (Parte do Corpo)
+Pé
+Pés
+Perna
+Nuca
+Tornozelo
+Mão
+Pulso
+Cotovelo
+Braço
+Ombro
+costas (Parte do Corpo)
+Axila
+Zona lombar
+Nádega
+Panturrilha
+Calcanhar
+Rosto/Cara
+Testa
+Olho
+Bochecha
+Narina
+Boca
+Maxilar
+Queixo
+Lábio
+sinal (Detalhe do Rosto)
+Nariz
+Orelha
+Cílios
+Sobrancelha
+Pele
+Cabelo
+rugas (Detalhe do Rosto)
+Sardas (Detalhe do Rosto)
+Poros (Detalhe do Rosto)
+Covinha (Detalhe do Rosto)
+dedos (Da Mão)
+dedos (Do Pé)
+Palma da Mão
+Unha
+Músculos
+Peitoral
+Esqueleto
+Crânio
+Costela
+espinha Dorsal
+Vértebra
+Articulação
+Cartilagem
+Osso
+Órgãos Internos
+Glândula tireóide
+Traqueia
+Pulmão
+Coração
+Estômago
+Apêndice
+Intestino Grosso
+Intestino Delgado
+Pâncreas
+Rim
+Duodeno
+Fígado
+Cérebro
+Faringe
+Esôfago
+Garganta
+Cordas Vocais
+Laringe
+Língua
+Sistemas do Corpo
+Respiratório
+Diafragma
+Digestivo
+Cardiovascular
+veia (Parte do Corpo Humano)
+Artéria
+Linfático
+Urinário
+Endócrino
+Glândula
+Nervoso
+Nervo
+Reprodutor
+Órgãos reprodutores
+bexiga Urinária
+Uretra
+lábios vaginais
+Vagina
+Útero
+Ovário
+Reprodução
+Fertilização
+Esperma
+óvulo (Gameta Feminino)
+Hormônio
+Impotente
+Menstruação
+Ovulação
+Fétil
+Coito
+Estéril
+conceber
+DST
+Canal deferente
+Ureter
+Pênis
+Escroto (Parte do Corpo)
+Testículos
+Próstata
+Contracepção
+Cápsula cervical
+Preservativo
+DIU
+Pílula
+Família
+Avó
+Avô
+Tio
+tia
+Primo
+Pai
+Papai
+Mãe
+Mamãe
+Irmão
+Irmã
+Nora
+filho
+Neto
+Neta
+Genro
+Marido
+esposa/mulher
+Sogra
+Sogro
+Cunhado
+Filha
+Cunhada
+Sobrinha
+Sobrinho
+(Sr)
+(Sra)
+Fases da vida
+bebê
+Criança/filho
+garoto
+garota
+Adolescente
+Adulto
+pais (Os Pais (Mãe e Pai))
+parentes
+netos
+Madrasta
+Enteado
+Geração
+avós
+Filhos/crianças
+Padrasto
+Enteada
+companheira(o)
+Gêmeos
+Gerente
+Escritório
+auxiliar
+Sócia
+Empregadora
+Empregada
+Colega
+Vizinho
+Amigo
+conhecido
+amigo por correspondência
+Namorado
+Namorada
+casal
+Emoções
+Feliz
+Sorriso
+triste
+animada
+entediado
+surpreendido
+assustado
+irritado/zangado
+confuso
+O Franzir da Testa
+preocupada
+nervosa
+orgulhoso
+confiante
+Vergonha
+tímido
+abalado
+chocado
+Rir
+Suspira
+Gritar
+Chorar
+Desmaiar
+Bocejar
+Acontecimentos da vida
+nascer
+começar a escola
+Fazer amigos
+me formei
+Conseguir um emprego
+Apaixonar-se
+me casar
+Ter um filho
+Casamento
+Divórcio
+Funeral
+Batizado
+aniversário
+Morrer
+Fazer um testamento
+Certidão de nascimento
+Festa de casamento
+emigram/emigrar
+Lua-de-Mel
+Errado (Isso está Errado)
+Estrada
+Teste
+Aparência
+Roupas de bebê
+Body (Roupa de Bebê)
+Babador
+Fralda Descartável
+Criança pequena, aprendendo a andar"
+Chapéu de sol
+Calção/short
+Jardineiras(Roupa)
+Saia
+Camiseta
+Verão
+Vestido
+Sandália
+Capa de chuva
+Capuz
+Outono
+Jeans
+Mochila de aluno
+Inverno
+Cachecol
+Roupa de dormir
+Roupão
+Camisola
+Pantufa
+Uniforme do time
+Logotipo
+Tênis (calçado)
+Fibra natural
+Sintético
+Terno de Trabalho
+Gravata
+Botão
+Sapato Social
+Calças
+Casaco(usado no frio)
+Casaco (Usado em quaisquer estações)
+Cinto
+Bolso
+Camisa
+Comprido
+Casaco de Malha
+Roupa de baixo
+Curto
+Blazer
+Colete
+Corta-Vento
+Suéter
+Pijama
+Roupa Casual
+Cuecas
+Cueca Boxer
+Meias
+Manga (Roupa)
+Bainha
+Sapatos
+Costura
+Sem Alças
+Sem Mangas
+Blusa
+Véu
+Ramo de Flores
+Vestido de Casamento
+Acessórios
+Boné
+Chapéu
+Fivela
+Laço de Cabelo
+Luvas
+Guarda-Chuva
+Cabo
+Jóia
+Pulseira
+Broche
+Anel
+Brinco
+Pedra
+Colar
+Relógio de Pulso
+Malas
+Carteira
+Malas de viagem
+Bagagem
+Bolsa (Feminina e pequena)
+Bolsa Feminina e média
+Chinelo
+Cadarço
+Pente
+Escova de cabelo
+Escova de Dentes
+Escovar
+Enxaguar
+Cortar
+Secador de Cabelo
+Shampoo
+Tesoura
+Loiro
+Morena/Castanho
+Ruivo
+Preto
+Cinza
+Branco
+Tingido
+Aparar
+Alisar
+Barbeiro
+Caspa
+Oleoso
+Seco
+Normal
+Couro Cabeludo
+Batom
+Maquiagem
+Pinça
+Espelho
+Corta-Unha
+Unha
+Esmalte
+Hidratante
+Perfume
+Fragrância
+Bronzear
+Bronzeado
+Clara(Pele)
+Sensível
+Tatuagem
+Escura (Pele)
+Hipoalérgico
+Tom
+Bolas de Algodão
+Saúde
+Doença
+Doença
+Doença
+Doença
+Febre
+Febril
+Asma
+Inalador
+Nebulizador
+Cólicas
+Dor de Cabeça
+Dor de Estômago
+Espirrar
+Crise de Espirro
+Náusea
+Algo que causa Náusea
+Náusea do movimento
+Tosse
+Tossir
+Gripe
+Hemorragia
+Sangramento
+Sangrar
+Sangramento nasal
+AVC
+Diabetes
+Alergia
+Alérgico à/a
+Infecção
+Vírus
+Resfriado
+Desmaiar (Fromal)
+Desmaiar (Informal)
+Vomitar (Fromal)
+Vomitar(Informal)
+Diarréia
+Médico
+Receita (Culinária)
+Receita (Médica)
+Leitor de Raio-X
+Consulta
+Paciente
+Pacientes Internados
+Enfermeira
+Balança
+Balança
+Balança
+Aparelho de Pressão Arterial
+Clínica
+Sala de Espera
+Área de Recepção
+Vacina
+Termômetro
+Estetoscópio
+Lesão
+Torcer
+Fratura
+Corte
+Arranhão
+Hematoma
+Hematoma
+Farpa
+Queimadura Solar
+Queimadura
+Queimadura a base de água fervente
+Mordida
+Picada
+Picada
+Acidente
+Batida entre Veículos
+Acidente
+Incidente
+Crise
+Ferida
+Bolha
+Envenenamento
+Choque Elétrico
+Pomada
+Primeiros Socorros
+Analgésico
+Analgésico
+Gaze
+Curativo
+Reanimação
+Pinça
+Inconsciente
+Respiração
+Estéril
+Engasgar-se
+Pulso
+Cirurgião
+Ficha do Paciente
+Anestesia
+Injeção
+Cadeira de Rodas
+Operação Clínica
+Com alta (Pessoa com alta)
+Departamento
+Cardiologia
+Cardiologista
+Ortopedia
+Ginecologia
+Ginecologista
+Dermatologia
+Dermatologista
+Pediatria
+Pediatra
+Radiologia
+Radiologista
+Cirurgia
+Psiquiatria
+Psiquiatra
+Oftalmologia
+Oftalmologista
+Neurologia
+Neurologista
+Endocrinologia
+Endocrinologista
+Cirurgia Plástica
+Encaminhamento
+Resultado
+Especialista
+Sonda
+Avental
+Bacia
+Dentista
+Esmalte Dentário
+Gengivas
+Raiz
+Incisivo
+Molar
+Pré-Molar
+Canino
+Dor de Dente
+Cárie
+Fio Dental
+Broca
+Extração
+Verbo para indicar o usar do fio dental Escova de Dente 
+Aparelho de dentes
+Dentadura
+Oculista
+Estojo
+óculos
+Lente/Lentes
+Armação óculos
+óculos de Sol
+Visão
+Lágrima
+Catarata
+Gravidez
+Teste de Gravidez
+Ultrassom
+Pré-Natal
+Grávida
+Contração
+Dilatação
+Cesariana
+Nascimento
+O ato do Parto
+Trabalho de Parto
+Dar à Luz
+Parto
+Prematuro
+Obstetra
+Aborto (Forçado)
+Aborto Espontâneo
+Pontos
+Espelho
+Despertador (Objeto) 
+Configurar o Dispertador
+Tocar do Alarme(O Alarme tocou) 
+Cabide
+Roupa de Cama
+Fronha 
+Lençol 
+Edredrom 
+Cobertor 
+Fazer a Cama/ Arrumar a Cama 
+Insônia (Formal) 
+Insônia (Informal)
+Tapete 
+Carpete 
+Tapete Pequeno (Como do Banheiro, Porta, Yoga) 
+Colchão
+Parto 
+Parto(Processo exato de parir a criança) 
+Soro (Liquido de Hidratação) 
+Soro (Processo de Receber uma Bolsa de Soro) 
+Parteira
+Induzir o Parto 
+Recém-Nascido 
+Incubadora 
+Amamentação 
+Amamentar  
+Bomba de Leite 
+Retirar Leite da Bomba 
+Discos Absorventes de Leite 
+Tapete
+Carpete 
+Tapete Pequeno (Como do Banheiro, Porta, Yoga) 
+Massagem
+Massagear  
+Meditação 
+Meditar 
+Terapeuta 
+Suplemento 
+Relaxamento 
+Relaxar 
+Quarto de Dormir 
+Armário Embutido
+Armário (Móvel) 
+Cabeceira
+Cabeceira 
+Gaveta 
+Cama 
+Beliche 
+Colchão 
+Travesseiro 
+Almofada 
+Banheiro
+Tampão (Pia)
+Banheira
+Torneira
+Torneira de Água Gelada / Torneira de Água Quente
+Chuveiro
+Registro/Maçaneta do Chuveiro
+Ralo do Chuveiro
+Privada (Vaso Sanitário)
+Escova do Vaso Sanitário
+Assento do Vaso Sanitário
+Tampa do Vaso Sanitário
+Descarga (Ato)
+Botão de Descarga
+Dar Descarga
+Entupir / Estar Entupido
+Desentupir
+Transbordar
+Desentupidor
+Papel Higiênico
+Esponja
+Escova de Costas
+Desodorante
+Passar / Aplicar o Desodorante
+Pasta de Dente
+Cuspir
+Enxaguar
+Sabonete
+Toalha
+Barba
+Fazer a Barba Por Completo
+Barbeador / Barbeador (Elétrico/Descartável)
+Creme de Barbear
+Pia
+Berçário
+Colchão
+Chocalho
+Lençol
+Cobertor
+Brinquedo de Apertar
+Mordedor
+Boneca
+Mamadeira
+Segurança (A Segurança em Si)
+Berço
+Grade de Segurança / '' Para Babies
+Portão-Grade da Escada
+Caminhada
+Passeio
+Passeio Planejado(Ex: Zoo, Museu)
+Viagem
+Carrinho de Bebê
+Canguru (Carregador de Bebê)
+Cadeirinha do Carro Para Bebê
+
+Roupa Suja (A ser Lavada)
+Cesto de Roupa Suja
+Máquina de lavar Roupa

@@ -1,0 +1,674 @@
+Day
+Morning
+Good
+Noon
+Afternoon
+Night
+Evening
+Good Evening
+Good night
+Midnight
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Person
+People
+Body
+Man
+Men
+Woman
+Women
+Male
+Female
+Groin
+Shin
+Genitals
+Hip
+Abdomen
+Chest
+Breast
+Neck
+Nipple
+Head
+Waist
+Navel
+Forearm
+Thigh
+Knee
+Foot
+Feet
+Leg
+Nape
+Ankle
+Hand
+Wrist
+Elbow
+Arm
+Shoulder
+Back
+Armpit
+Small of back
+Buttock
+Calf
+Heel
+Face
+Forehead
+Eye
+Cheek
+Nostril
+Mouth
+Jaw
+Chin
+Lip
+Mole
+Nose
+Ear
+Eyelashes
+Eyebrow
+Skin
+Hair
+Wrinkle
+Freckles
+Pore
+Dimple
+Fingers
+Toes
+Palm
+Nail
+Muscles
+Pectoral
+Skeleton
+Skull
+Rib
+Spine
+Vertebrae
+Joint
+Cartilage
+Bone
+Internal Organs
+Thyroid gland
+Windpipe
+Lung
+Heart
+Stomach
+Appendix
+Large Intestine
+Small Intestine
+Pancreas
+Kidney
+Duodenum
+Liver
+Brain
+Pharynx
+Oesophagus
+Throat
+Vocal Cords
+Larynx
+Tongue
+Body Systems
+Respiratory
+Diaphragm
+Digestive
+Cardiovascular
+Vein
+Artery
+Lymphatic
+Urinary
+Endocrine
+Gland
+Nervous
+Nerve
+Reproductive
+Reproductive organs
+Bladder
+Urethra
+Labia
+Vagina
+Uterus
+Ovary
+Reproduction
+Fertilization
+Sperm
+Egg
+Hormone
+Impotent
+Menstruation
+Ovulation
+Fertile
+Intercourse
+Infertile
+Conceive
+STI
+Vas deferens
+Ureter
+Penis
+Scrotum
+Testicle
+Prostate
+Contraception
+Cap
+Condom
+IUD
+Pill
+Family
+Grandmother
+Grandfather
+Uncle
+Aunt
+Cousin
+Father
+Dad
+Mother
+Mom
+Brother
+Sister
+Daughter-in-law
+Son
+Grandson
+Granddaughter
+Son-in-law
+Husband
+Wife
+Mother-in-law
+Father-in-law
+Brother-in-law
+Daughter
+Sister-in-law
+Niece
+Nephew
+Mr
+Mrs
+Stages
+Baby
+Child
+Boy
+Girl
+Teenager
+Adult
+Parents
+Relatives
+Grandchildren
+Stepmother
+Stepson
+Generation
+Grandparents
+Children
+Stepfather
+Stepdaughter
+Partner
+Twins
+Manager
+Office
+Assistant
+Business Partner
+Employer
+Employee
+Colleague
+Neighbor
+Friend
+Acquaintance
+Penpal
+Boyfriend
+Girlfriend
+Couple
+Emotions
+Happy
+Smile
+Sad
+Excited
+Bored
+Surprised
+Scared
+Angry
+Confused
+Frown
+Worried
+Nervous
+Proud
+Confident
+Embarrassed
+Shy
+Upset
+Shocked
+Laugh
+Sigh
+Shout
+Cry
+Faint
+Yawn
+Life events
+Be born
+Start school
+Make friends
+Graduated
+Get a job
+Fall in love
+Get married
+Have a baby
+Wedding
+Divorce
+Funeral
+Christening
+Anniversary
+Die
+Make a will
+Birth certificate
+Wedding-reception
+Emigrate
+Honeymoon
+Wrong
+Road
+Test
+Appearance
+Children's clothing
+Bodysuit
+Bib
+Disposable Diaper
+Toddler
+Sun Hat
+Short
+Overalls
+Skirt
+T-shirt
+Summer
+Dress
+Sandals
+Raincoat
+Hood
+Fall
+Jeans
+Backpack
+Winter
+Scarf
+Nightwear
+Bathrobe
+Nightgown
+Slippers
+Soccer Uniform
+Logo
+Athletic Shoes
+Natural
+fiber Synthetic
+Business Suit
+Tie
+Button
+Leather Shoes
+Pants
+Coat
+Jacket
+Belt
+Pocket
+Shirt
+Long
+Cardigan
+Underwear
+Short
+Blazer
+Vest
+Windbreaker
+Sweater
+Pajamas
+Casual Wear
+Briefs
+Boxers
+Socks
+Sleeve
+Hem
+Shoes
+Sewing
+Strapless
+Sleeveless
+Blouse
+Veil
+Bouquet
+Wedding Dress
+Accessories
+Cap
+Hat
+Buckle
+Bow
+Gloves
+Umbrella
+Handle
+Jewelry
+Bracelet
+Broche
+Ring
+Earring
+Stone
+Necklace
+Watch
+Bags
+Wallet
+Suitcase
+Luggage
+Purse
+Handbag
+Flip-Flops
+Shoelace
+Comb
+Hairbrush
+Toothbrush
+Brush
+Rinse
+Cut
+Hair Dryer
+Shampoo
+Scissors
+Blonde
+Brunette
+Ginger
+Black
+Gray
+White
+Dyed
+Trim
+Straighten
+Barber
+Dandruff
+Oily
+Dry
+Normal
+Scalp
+Lipstick
+Makeup
+Tweezers
+Mirror
+Nail Clippers
+Nail
+Polish
+Moisturizer
+Perfume
+Fragrance
+Tan
+Tanned
+Fair
+Sensitive
+Tattoo
+Dark
+Hypoallergenic
+Shade
+Cotton Balls
+Health
+Disease
+Illness
+Condition
+Sickness
+Fever
+Feverish
+Asthma
+Inhaler
+Nebulizer
+Cramps
+Headache
+Stomachache
+Sneeze
+Sneeze Fit
+Nausea
+Nauseating
+Motion
+Sickness
+Cough
+Flu
+Hemorrhage
+Bleeding
+Bleed
+Nosebleed
+Stroke
+Diabetes
+Allergy
+Allergic to
+Infection
+Virus
+Cold
+Faint
+Pass Out
+Vomit
+Throw up
+Diarrhea
+Doctor
+Recipe
+Prescription
+X-Ray Viewer
+Appointment
+Patient
+Inpatient
+Nurse
+Scale
+Weighing Scale
+Balance
+Blood Pressure Monitor
+Clinic
+Waiting Room
+Reception Area
+Vaccine
+Termometer
+Stethoscope
+Injury
+Twist
+Fracture
+Cut
+Scratch
+Bruise
+Contusion
+Splinter
+Sunburn
+Burn
+Scald
+Bite
+Sting
+Prick
+Accident
+Crash
+Mishap
+Incident
+Crisis
+Wound
+Blister
+Poisoning
+Electric Shock
+Ointment
+First-aid
+Analgesic
+Painkillers
+Gauze
+Dressing
+Resuscitation
+Tweezers
+Unconscious
+Breathing
+Sterile
+Choke
+Pulse
+Surgeon
+Chart
+Anesthesia
+Injection
+Wheelchair
+Operation
+Discharged
+Department
+Cardiology
+Cardiologist
+Orthopedics
+Gynecology
+Gynecologist
+Dermatology
+Dermatologist
+Pediatrics
+Pediatrician
+Radiology
+Radiologist
+Surgery
+Psychiatry
+Psychiatrist
+Ophthalmology
+Ophthalmologist
+Neurology
+Neurologist
+Endocrinology
+Endocrinologist
+Plastic Surgery
+Referral
+Result
+Specialist
+Probe
+Apron
+Basin
+Dentist
+Enamel
+Gums
+Root
+Incisor
+Molar
+Premolar
+Canine
+Toothache
+Tooth Decay
+Dental Floss
+Drill
+Extraction
+To Floss
+Braces
+Dentures
+Optometrist
+Case
+Glasses
+Lens/Lenses
+Frame
+Sunglasses
+Vision
+Tear
+Cataract
+Pregnancy
+Pregnancy Test
+Ultrasound
+Prenatal
+Pregnant
+Contraction
+Dilation
+Cesarean Section
+Birth
+Childbirth
+Labor
+Give Birth
+Delivery
+Premature
+Obstetrician
+Abortion
+Miscarriage
+Stitches
+Mirror
+Alarm Clock 
+To Set the Alarm
+To Go Off 
+Hanger 
+Bedding / Bed Linen 
+Pillowcase 
+Sheet 
+Comfoter
+Blanket 
+To Make the Bed 
+Insomnia 
+Sleeplessness 
+Rug 
+Carpet 
+Mat 
+Mattress 
+Birth
+Delivery
+Saline Solution 
+IV Drip 
+MidWife 
+To Induce Labor 
+NewBorn 
+Incubator 
+Breastfeeding / Nursing 
+To Breastfeed / to Nurse
+Breast Pump 
+To Pump 
+Pumps 
+Bedroom 
+Rug
+Carpet
+Mat
+Massage
+To Massage
+Meditation
+To Meditate
+Therapist 
+Supplement
+Relaxation
+To Relax 
+Closet 
+Wardrobe 
+Head 
+Dresser
+Drawer 
+Bed 
+Bunk Bed 
+Mattress 
+Pillow 
+Throw Pillow / Cushion 
+Bathroom
+Stopper / Plug
+Bathtub / Tub
+Faucet
+Cold Faucet / Hot Faucet
+Shower
+Shower Handle/ Valve
+Shower Drain
+Toilet
+Toilet Brush
+Toilet Seat
+Toilet Lid
+Flush
+Flush Handle / Button
+To Flush the Toilet
+To Clog / To be Clogged
+To Unclog
+To Overflow
+Plunger
+Toilet Paper
+Sponge
+Back Brush
+Deodorant
+To Put on / To Apply Deodorant
+ToothPaste
+To Spit
+To Rinse
+Soap
+Towel
+Beard
+To Shave
+Razor / (Eletric/Disposible) Razor
+Shaving Cream
+Sink
+Nursery
+Mattress
+Rattle
+Sheet
+Blanket
+Squeaky Toy
+Teether
+Doll
+Baby Bottle
+Safety
+Crib
+Safety Gate / Baby Gate
+Stair Gate
+The Walk
+Stroll
+Outing
+Trip
+Stroller
+Baby Carrier
+Car Seat
+
+Dirty Laundry
+Laundry Basket
+Washing Machine / Washer
