@@ -668,7 +668,13 @@ Trip
 Stroller
 Baby Carrier
 Car Seat
-
+Laundry Room
+Laundromat
 Dirty Laundry
 Laundry Basket
 Washing Machine / Washer
+Dryer (Clothes)
+To Shrink
+To Dry
+Iron
+Ironing Board

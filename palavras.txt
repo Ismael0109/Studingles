@@ -668,7 +668,13 @@ Viagem
 Carrinho de Bebê
 Canguru (Carregador de Bebê)
 Cadeirinha do Carro Para Bebê
-
+Lavanderia Em Casa
+Lavanderia Pública
 Roupa Suja (A ser Lavada)
 Cesto de Roupa Suja
 Máquina de lavar Roupa
+Secadora de Roupas
+Encolher
+Secar
+Ferro de Passar
+Tábua de Passar Roupa
