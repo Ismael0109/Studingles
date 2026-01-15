@@ -678,3 +678,15 @@ Encolher
 Secar
 Ferro de Passar
 Tábua de Passar Roupa
+Varal de Roupas
+Pendurar / Pendurou(Passado)
+Prender com o Pregador / Prendeu...Prendido
+Pregador de Roupas
+Enxer a Máquina de Lavar com Roupas / Carregou...Carregada
+Centrifugar / Centrifugou...Centrifugada (Girar Rápdo)
+Centrifugadora
+Passar a Roupa / Passou...Passada
+Amaciante Líquido
+Lenços Amaciantes
+Amaciar / Amaciou...Amaciado
+Derramar, Despejar / Derramou, Despejou...Derramado, Despejado

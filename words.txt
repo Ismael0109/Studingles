@@ -678,3 +678,15 @@ To Shrink
 To Dry
 Iron
 Ironing Board
+Clothesline
+To Hang / Hung
+To Pin / Pinned
+Clothespin
+To Load the Washer / Loaded
+To Spin / Spun
+Spin Dryer
+To Iron / Ironed
+Fabric Softener
+Dryer Sheets
+To Soften / Softened
+To Pour / Poured
