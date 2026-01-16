@@ -690,3 +690,25 @@ Amaciante Líquido
 Lenços Amaciantes
 Amaciar / Amaciou...Amaciado
 Derramar, Despejar / Derramou, Despejou...Derramado, Despejado
+Equipamento de Limpeza
+Aspirador de Pó
+Balde
+Esfregão
+Detergente
+Pá de Lixo
+Escova de Limpeza
+Vassoura
+Rodo
+Espanador
+Pano de Prato
+//
+Limpar
+Lavar
+Passar Pano em Superfícies
+Esfregar com Força
+Raspar Superfícies
+Varrer
+Tirar o Pó
+Polir
+Esterilizar
+Desinfectar

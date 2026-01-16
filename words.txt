@@ -690,3 +690,25 @@ Fabric Softener
 Dryer Sheets
 To Soften / Softened
 To Pour / Poured
+Cleaning Equipment
+Vacuum Cleaner
+Bucket
+Mop
+Detergent
+Dustpan
+Scrub Brush
+Broom
+Squeegee
+Duster
+Dish Towel
+//
+To Clean / Cleaned
+To Wash / Washed
+To Wipe / Wiped
+To Scrub / Scrubbed
+To Scrape / Scraped
+To Sweep / Swept
+To Dust / Dusted
+To Polish / Polished
+To Sanitize / Sanitized
+To Disinfect / Disinfected
