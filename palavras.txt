@@ -701,7 +701,6 @@ Vassoura
 Rodo
 Espanador
 Pano de Prato
-//
 Limpar
 Lavar
 Passar Pano em Superfícies
@@ -712,3 +711,76 @@ Tirar o Pó
 Polir
 Esterilizar
 Desinfectar
+Oficina (de Artesanato)
+Broca
+Furadeira
+Pistola de Cola Quente
+Lâmina
+Cola de Madeira
+Extensão Elétrica
+Régua de Energia
+Serra
+Ferramentas
+Cortar
+Serrar
+Furar
+Martelar
+Aplanar
+Esculpir
+Soldar
+Colar
+Apertar
+Parafusar
+Madeira
+Verniz
+Passar o Verniz
+Arame
+Metal
+Aço
+Aço Inoxidável
+Ferrugem
+Enferrujar
+Lixar
+Caixa de Ferramentas
+Fita Métrica
+Martelo
+Estilete
+Prego
+Parafuso
+Fita Isolante
+Serrote
+Óculos de Segurança
+Lixa
+Lã de Aço (Bombril)
+Tesoura
+Raspador
+Pintor
+Papel de Parede
+Colocar o Papel de Parede
+Instalar o Ppale de Parede
+Arrancar Camadas
+Rolo
+Passar o Rolo
+Tinta
+Pintar
+Fita Crepe
+///
+Régua
+Polegada
+Pé (Medida)
+Comprimento
+Largura
+Altura
+Profundidade
+//
+Jardim
+Pátio
+Canteiro de Flores
+Caminho
+Portão
+Horta
+Arco de Arquiterura
+Fonte
+Lago
+Argila
+Solo

@@ -701,14 +701,85 @@ Broom
 Squeegee
 Duster
 Dish Towel
+to Clean / Cleaned
+to Wash / Washed
+to Wipe / Wiped
+to Scrub / Scrubbed
+to Scrape / Scraped
+to Sweep / Swept
+to Dust / Dusted
+to Polish / Polished
+to Sanitize / Sanitized
+to Disinfect / Disinfected
+Workshop
+Drill Bit
+Drill
+Glue Gun
+Blade
+Wood Glue
+Extension Cord
+Power Strip
+Saw
+Tools
+to Cut / Cut
+to Saw / Sawed
+to Drill / Drilled
+to Hammer / Hammered
+to Plane / Planed
+to Carve / Carved
+to Weld / Welded
+to Glue / Glueded
+to Tighten / Tightened
+to Screw / Screwed
+Wood
+Varnish
+to Varnish / Varnished
+Wire
+Metal
+Steel
+Stainless Steel
+Rust
+to Rust / Rusted
+to Sand / Sanded
+Toolbox
+Tape Measure
+Hammer
+Utility Knife / Box Cutter
+Nail
+Screw
+Electrical Tape
+Handsaw
+Safety Goggles
+Sandpaper
+Steel Wool
+Scissors
+Scraper
+Painter
+Wallpaper
+to Wallpaper / Wallpapered
+to Hang Wallpaper / Hung
+to Strip / Stripped
+Roller
+to Roll / Rolled
+Paint
+to Paint / Painted
+Masking Tape
+///
+Ruler
+Inch
+Foot (Medida)
+Length
+Width
+Height
+Depth
 //
-To Clean / Cleaned
-To Wash / Washed
-To Wipe / Wiped
-To Scrub / Scrubbed
-To Scrape / Scraped
-To Sweep / Swept
-To Dust / Dusted
-To Polish / Polished
-To Sanitize / Sanitized
-To Disinfect / Disinfected
+Garden
+Patio
+Flowerbed
+Path
+Gate
+Vegetable Garden
+Fountain
+Lake
+Clay
+Soil
